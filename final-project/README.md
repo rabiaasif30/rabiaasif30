@@ -1,5 +1,5 @@
 - Project URL: http://127.0.0.1:5000/memenator/ 
-- Here is the link to view my project tutorial video:
+- Here is the link to view my project tutorial video: https://youtu.be/Og4oURmdgPc
 
 - 👋 Hi, I’m @rabiaasif30
 - 👀 I’m interested in learning more about Computer Science. 
