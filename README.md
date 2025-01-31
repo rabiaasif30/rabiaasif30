@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @rabiaasif30
 - 👀 I’m interested in learning more about Computer Science. 
-- 🌱 I’m currently learning Java. 
+- 🌱 I’m currently learning Java and C. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rabiaasif30@icloud.com
 
